@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: Bienbenido a Nustra Pagina (Blog)
 icon: fa-check
 order: 5
 ---
